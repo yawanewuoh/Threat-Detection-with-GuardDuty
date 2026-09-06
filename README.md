@@ -97,6 +97,3 @@ GuardDuty's detailed finding reported on the resources affected, actions the hac
 
 ---
 
-## Extra: Malware Protection
-
----
