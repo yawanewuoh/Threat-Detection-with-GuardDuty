@@ -7,8 +7,6 @@
 
 ---
 
-## Introducing Today's Project!
-
 ### Tools and concepts
 
 The key concepts I learnt in this project include:
