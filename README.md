@@ -1,10 +1,6 @@
 # Threat Detection with GuardDuty
 
 **Project Link:** [View Project](http://nextwork.ai/projects/aws-security-guardduty)
-
-**Author:** Jude Anewuoh  
-**Email:** judeanewuoh@gmail.com
-
 ---
 
 ![Image](http://nextwork.ai/positive_beige_noble_river_dolphin/uploads/aws-security-guardduty_v1w2x3y4)
